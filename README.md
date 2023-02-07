@@ -19,4 +19,9 @@ The code can easily be adapted to include more apps as well analyzing different 
 
 Using the graph below, we can look at time intervals with usually high or low sentiment and then a deeper analysis can be done on those time selected comments to discover what consumers like and don't like.
 
-![image](/2wk_avg_sentiment.png)
+![image](images/2wk_avg_sentiment.png)
+
+## Topic Modeling
+A brief topic modelling was done using Top2Vec and then a hierarchical model reduction was done so that 12 topic clusters could be created.
+
+![image](images/topic_clusters.png)
