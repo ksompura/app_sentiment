@@ -1,4 +1,4 @@
-# Sentiment Review of 6 Different Apps
+# Sentiment and Topic Modeling of Reviews for 6 Different Apps
 ## Sentiment analysis of 6 second-hand clothing apps.
 
 This project uses NLP methods to analyzes reviews pulled from 6 apps on the google play cloud service. 
