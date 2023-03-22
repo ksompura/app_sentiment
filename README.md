@@ -24,4 +24,4 @@ Using the graph below, we can look at time intervals with usually high or low se
 ## Topic Modeling
 A topic modelling of all 200,000+ reviews was done using Top2Vec and then a hierarchical model reduction was done so that 12 topic clusters could be created.
 
-![image](images/topic_clusters.png)
+![image](images/topic_clusters5.png)
